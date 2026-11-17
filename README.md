@@ -25,13 +25,13 @@ A small local app that accepts **one PDF or one image per run**, extracts page t
 
 ## Requirements
 
-- Python 3.11–3.15 (the Windows build works with 3.15 via `py -3.15`).
-- Tesseract OCR installed as a separate system application.
+- [Python 3.11–3.15](https://www.python.org/downloads/) (the Windows build works with 3.15 via `py -3.15`).
+- [Tesseract OCR installed](https://github.com/UB-Mannheim/tesseract/wiki) as a separate system application.
 - macOS, Windows, or Linux.
 
 ### Windows setup (Python, for development)
 
-1. Install Python 3.10+ from python.org and Tesseract OCR (the Tesseract project lists Windows installation options in its installation guide).
+1. Install Python 3.10+ from python.org and [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki) (the Tesseract project lists Windows installation options in its installation guide).
 2. Open PowerShell in the unzipped project directory.
 3. Create/activate a virtual environment:
 
