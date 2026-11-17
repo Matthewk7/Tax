@@ -1,0 +1,5 @@
+streamlit>=1.50,<2
+pymupdf>=2.0,<3
+Pillow>=10,<13
+pytesseract>=0.3.13,<1
+pillow-heif>=1.1,<2
